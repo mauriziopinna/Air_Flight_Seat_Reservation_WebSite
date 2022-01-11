@@ -4,10 +4,10 @@ Website written from scratch for a University Project.
 It allows different users to book one or more seats on a flight.
 
 TECHNOLOGIES:
- -Client side:
+ *Client side:
   -HTML & CSS
   -Javascript, JQuery, AJAX
--Server side:
+*Server side:
   -PHP
 
 What I learned:
